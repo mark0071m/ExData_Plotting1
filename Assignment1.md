@@ -6,22 +6,22 @@ The scripts in this repository create the 4 plots, when the Electric power consu
 
 These plots are PNG files with a width of 480 pixels and a height of 480 pixels named plot1.png, plot2.png, etc. and are shown below.
 
-### Plot 1
+#### Plot 1
 
 ![plot 1](plot1.png) 
+![plot 1](plot1.R) 
 
+#### Plot 2
 
-### Plot 2
+![plot 2](plot2.png) 
+![plot 2](plot2.R)
 
-![plot 2](figure/unnamed-chunk-3.png) 
+#### Plot 3
 
+![plot 3](plot3.png) 
+![plot 3](plot3.R)
 
-### Plot 3
+#### Plot 4
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
-
-### Plot 4
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
+![plot 4](plot4.png) 
+![plot 4](plot4.R)
