@@ -1,5 +1,6 @@
-#
+#ExData Plotting Assignment 1, plot 1
 
+#read data, excluding unused dates
 library(sqldf)
 my_file <- "household_power_consumption.txt"
 my_sql <- "select * from file where Date=='1/2/2007' or Date=='2/2/2007'"
